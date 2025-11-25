@@ -3,7 +3,7 @@
 
 I am a Computer Science undergradute with a profound interest in Cybersecurity and Digital Forensics, dedicated to solving digital puzzles.
 
-## Objective
+## 🎯Objective
 
 The recent rise in digital crimes combined with my background in computer science has inspired my tansistion into Cybersecurity. I am focused on Digital Forensics and eager to contribute to SOC operations as a Junior Digital Forensics Analyst while building strong cloud security fundamentals. 
 
@@ -14,6 +14,7 @@ The recent rise in digital crimes combined with my background in computer scienc
 | Digital Forensics/DFIR                        | <a href="https://google.com">Coming soon</a>|
 | Incident Response/SOC                         | <a href="https://google.com">Coming Soon</a>|
 | Cloud Security                                | Coming Soon|
+| Network Traffic Monitoring and Analysis       | <a href="https://github.com/ekundayo7/WebStrike-Lab/tree/main">Network Traffic Analysis Lab</a>|
 | Cybersecurity Foundation                      | Coming Soon|
 | Scripting/Automation for Digital Forensics    | Coming Soon|
 | Documentation & Report Writing                | Coming Soon|
@@ -46,7 +47,7 @@ The recent rise in digital crimes combined with my background in computer scienc
   <img src="https://img.shields.io/badge/-Wazuh-003B70?style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
-## Certifications
+## 🎓Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity-005571?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -61,7 +62,10 @@ The recent rise in digital crimes combined with my background in computer scienc
 ## 🖥️Projects
 I am currently working on buildng hands-on Digital Forensics and Cloud Security projects. New repositories will be added as I progress through my digital forensics training and cloud security learning path.
 
-### 🔧Upcoming Projects
+### Completed Projects
+- <a href="https://github.com/ekundayo7/WebStrike-Lab/tree/main">Network Traffic Analysis</a> 
+
+### Upcoming Projects
 - Memory Dump Analysis
 - Network Traffic Analysis
 - Cloud Security Incident Simulation
