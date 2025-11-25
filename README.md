@@ -14,7 +14,7 @@ The recent rise in digital crimes combined with my background in computer scienc
 | Digital Forensics/DFIR                        | <a href="https://google.com">Coming soon</a>|
 | Incident Response/SOC                         | <a href="https://google.com">Coming Soon</a>|
 | Cloud Security                                | Coming Soon|
-| Network Traffic Monitoring and Analysis       | <a href="https://github.com/ekundayo7/WebStrike-Lab/tree/main">Network Traffic Analysis Lab</a>|
+| Network Traffic Monitoring and Analysis       | <a href="https://github.com/ekundayo7/Network-Traffic-Analysis-Lab/tree/main">Network Traffic Analysis Lab</a>|
 | Cybersecurity Foundation                      | Coming Soon|
 | Scripting/Automation for Digital Forensics    | Coming Soon|
 | Documentation & Report Writing                | Coming Soon|
@@ -63,7 +63,7 @@ The recent rise in digital crimes combined with my background in computer scienc
 I am currently working on buildng hands-on Digital Forensics and Cloud Security projects. New repositories will be added as I progress through my digital forensics training and cloud security learning path.
 
 ### Completed Projects
-- <a href="https://github.com/ekundayo7/WebStrike-Lab/tree/main">Network Traffic Analysis</a> 
+- <a href="https://github.com/ekundayo7/Network-Traffic-Analysis-Lab/tree/main">Network Traffic Analysis</a> 
 
 ### Upcoming Projects
 - Memory Dump Analysis
