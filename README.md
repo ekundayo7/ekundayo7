@@ -5,12 +5,13 @@ I am a Computer Science undergradute with a profound interest in Cybersecurity a
 
 ## 🎯Objective
 
-The recent rise in digital crimes combined with my background in computer science has inspired my tansistion into Cybersecurity. I am focused on Digital Forensics and eager to contribute to SOC operations as a Junior Digital Forensics Analyst while building strong cloud security fundamentals. 
+The recent rise in digital crimes combined with my background in computer science has inspired my tansistion into Cybersecurity. I am focused on Digital Forensics and eager to contribute to SOC operations as a Junior Digital Forensics Analyst. 
 
 ## 💡Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Data Privacy in Digital Forensics investigation| Coming soon|
 | Digital Forensics/DFIR                        | <a href="https://google.com">Coming soon</a>|
 | Incident Response/SOC                         | <a href="https://google.com">Coming Soon</a>|
 | Cloud Security                                | Coming Soon|
@@ -60,14 +61,14 @@ The recent rise in digital crimes combined with my background in computer scienc
 </div>
 
 ## 🖥️Projects
-I am currently working on buildng hands-on Digital Forensics and Cloud Security projects. New repositories will be added as I progress through my digital forensics training and cloud security learning path.
+I am currently working on buildng hands-on Digital Forensics and Incident Response  projects. New repositories will be added as I progress through my digital forensics and incident response training.
 
 ### Completed Projects
 - <a href="https://github.com/ekundayo7/Network-Traffic-Analysis-Lab/tree/main">Network Traffic Analysis</a> 
 
 ### Upcoming Projects
-- Memory Dump Analysis
 - Network Traffic Analysis
-- Cloud Security Incident Simulation
-- Basic DFIR Cae Report Template
+- Data Privacy in Digital Forensics Investigation
+- Memory Dump Analysis
+- Basic DFIR Case Report Template
 
