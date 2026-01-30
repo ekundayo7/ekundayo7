@@ -11,7 +11,7 @@ The recent rise in digital crimes combined with my background in computer scienc
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Data Privacy & GRC Analysis                   | <a href="https://github.com/ekundayo7/">Health Centre Security Posture Assessment</a>|
+| Data Privacy & GRC Analysis                   | <a href="https://github.com/ekundayo7/Health-Centre-Security-Posture-Assessment">Health Centre Security Posture Assessment</a>|
 | Digital Forensics/DFIR                        | <a href="https://google.com">Coming soon</a>|
 | Incident Response/SOC                         | <a href="https://google.com">Coming Soon</a>|
 | Cloud Security                                | Coming Soon|
@@ -64,11 +64,11 @@ The recent rise in digital crimes combined with my background in computer scienc
 I am currently working on buildng hands-on Digital Forensics and Incident Response  projects. New repositories will be added as I progress through my digital forensics and incident response training.
 
 ### Completed Projects
-- <a href="https://github.com/ekundayo7/Network-Traffic-Analysis-Lab/tree/main">Network Traffic Analysis</a> 
+- <a href="https://github.com/ekundayo7/Network-Traffic-Analysis-Lab/tree/main">Network Traffic Analysis</a>
+- <a href="https://github.com/ekundayo7/Health-Centre-Security-Posture-Assessment">Data Privacy & GRC Analysis</a>
+ 
 
 ### Upcoming Projects
-- Network Traffic Analysis
-- Data Privacy in Digital Forensics Investigation
 - Memory Dump Analysis
 - Basic DFIR Case Report Template
 
