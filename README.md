@@ -11,7 +11,7 @@ The recent rise in digital crimes combined with my background in computer scienc
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Data Privacy in Digital Forensics investigation| Coming soon|
+| Data Privacy & GRC Analysis                   | <a href="https://github.com/ekundayo7/">Health Centre Security Posture Assessment</a>|
 | Digital Forensics/DFIR                        | <a href="https://google.com">Coming soon</a>|
 | Incident Response/SOC                         | <a href="https://google.com">Coming Soon</a>|
 | Cloud Security                                | Coming Soon|
