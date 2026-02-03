@@ -11,14 +11,12 @@ The recent rise in digital crimes combined with my background in computer scienc
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Data Privacy & GRC Analysis                   | <a href="https://github.com/ekundayo7/Health-Centre-Security-Posture-Assessment">Health Centre Security Posture Assessment</a>|
-| Digital Forensics/DFIR                        | <a href="https://google.com">Coming soon</a>|
-| Incident Response/SOC                         | <a href="https://google.com">Coming Soon</a>|
-| Cloud Security                                | Coming Soon|
 | Network Traffic Monitoring and Analysis       | <a href="https://github.com/ekundayo7/Network-Traffic-Analysis-Lab/tree/main">Network Traffic Analysis Lab</a>|
-| Cybersecurity Foundation                      | Coming Soon|
+| Data Privacy & GRC Analysis                   | <a href="https://github.com/ekundayo7/Health-Centre-Security-Posture-Assessment">Health Centre Security Posture Assessment</a>|
+| Digital Forensics                             | <a href="https://github.com/ekundayo7/Digital-Forensics-Practical">Digital Forensics Fundamental Practicals</a>|
 | Scripting/Automation for Digital Forensics    | Coming Soon|
 | Documentation & Report Writing                | Coming Soon|
+| Incident Response/SOC                         | Coming Soon|
 
 ## 🛠️ Tools
 
@@ -66,6 +64,7 @@ I am currently working on buildng hands-on Digital Forensics and Incident Respon
 ### Completed Projects
 - <a href="https://github.com/ekundayo7/Network-Traffic-Analysis-Lab/tree/main">Network Traffic Analysis</a>
 - <a href="https://github.com/ekundayo7/Health-Centre-Security-Posture-Assessment">Data Privacy & GRC Analysis</a>
+-<a href="https://github.com/ekundayo7/Digital-Forensics-Practical">Digital Forensics Fundamental Practicals</a>
  
 
 ### Upcoming Projects
