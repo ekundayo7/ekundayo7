@@ -64,7 +64,7 @@ I am currently working on buildng hands-on Digital Forensics and Incident Respon
 ### Completed Projects
 - <a href="https://github.com/ekundayo7/Network-Traffic-Analysis-Lab/tree/main">Network Traffic Analysis</a>
 - <a href="https://github.com/ekundayo7/Health-Centre-Security-Posture-Assessment">Data Privacy & GRC Analysis</a>
--<a href="https://github.com/ekundayo7/Digital-Forensics-Practical">Digital Forensics Fundamental Practicals</a>
+- <a href="https://github.com/ekundayo7/Digital-Forensics-Practical">Digital Forensics Fundamental Practicals</a>
  
 
 ### Upcoming Projects
